@@ -1,6 +1,17 @@
 # Data for Non-strategic Econometrics (for Initial Play)
 
-Datasets used in the paper Non-strategic Econometrics (for Initial Play)
+Datasets used in the paper [Non-strategic Econometrics (for Initial Play)](https://arxiv.org/abs/2208.06521) at AAMAS 2023. 
+
+You can cite the paper with the following Bibtex entry:
+```
+@inproceedings{chui2023non,
+  title={Non-strategic Econometrics (for Initial Play)},
+  author={Chui, Daniel and Hartline, Jason and Wright, James R},
+  booktitle={Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems},
+  pages={634--642},
+  year={2023}
+}
+```
 
 Datasets consist of subjects playing 24 3x3 NFGs on Amazon Mechanical Turk, with subjects taking less than 120 seconds (2 minutes) to play all 24 games being excluded.
 
