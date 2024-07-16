@@ -22,4 +22,4 @@ Subjects played across 2 conditions:
 ## Ordered vs. Randomized
 	Participants played all games in the same order in the ordered condition, whereas the games were presented in a random order to participants in the randomized condition
 ## Game indices
-The `gameIndices.pkl` file store the order the games were presented to each subject, with each row corresponding to the subject in the play file
+The `gameIndices.pkl` file gives the order the games were presented to each subject, with each row index corresponding to the subject in the file storing the player actions. For the ordered conditions, the gameIndices just contain an array containing the numbers 0-23 in order.
